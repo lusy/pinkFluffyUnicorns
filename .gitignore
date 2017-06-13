@@ -1,0 +1,10 @@
+*.pyc
+*.swp
+*~
+__pycache__
+env3/
+env3.5/
+db.sqlite3
+/static
+.DS_Store
+problems
